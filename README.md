@@ -1,6 +1,6 @@
 # SvelteKit + Shadcn ui + tailwindcss starter
 
-Everything you need to build a Svelte project.
+Everything you need to build a Svelte project with SvelteKit, Shadcn UI, and Tailwind CSS.
 
 ## Features
 
